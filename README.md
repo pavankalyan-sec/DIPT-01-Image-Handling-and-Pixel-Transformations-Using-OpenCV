@@ -1,9 +1,9 @@
 # DIPT-01-Image-Handling-and-Pixel-Transformations-Using-OpenCV
 
 
-*Name:* Pavan Kalyan P
-*Register Number:* 212225240104
-*Experiment:* Image Handling and Pixel Transformations Using OpenCV
+## Name: Pavan Kalyan P
+## Register Number: 212225240104
+## Experiment: Image Handling and Pixel Transformations Using OpenCV
 
 ---
 
